@@ -70,3 +70,4 @@ systemctl daemon-reload
 systemctl enable anoma
 systemctl start anoma
 ```
+Get more info about our projects at our website: Validatrium.com
