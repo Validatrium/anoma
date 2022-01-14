@@ -1,6 +1,6 @@
 hardware specs
 RAM: minimum 16GB 4
-core cpuCPU: 4 core (Intel i3 or better)
+core CPU: 4 core (Intel i3 or better)
 Disk: 60GB of free disk space
 
 ```bash
