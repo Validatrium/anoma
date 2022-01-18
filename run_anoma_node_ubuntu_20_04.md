@@ -33,7 +33,7 @@ mv .cargo/bin/* /usr/local/bin/
 # do the same for chain id
 echo "export ACCOUNT=<alias>" >> $HOME/.bashrc
 # set chain. Testnet id: anoma-testnet-0.0.a1d4bbfafa49
-echo "export CHAIN=<chain-id>" >> $HOME/.bashrc
+echo "export CHAIN=anoma-testnet-0.0.a1d4bbfafa49" >> $HOME/.bashrc
 # type `anoma_logs` to get node logs :D 
 echo "alias anoma_logs='journalctl -u anoma -f'" >> $HOME/.bashrc
 source $HOME/.bashrc
