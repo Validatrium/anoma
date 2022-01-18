@@ -29,6 +29,8 @@ cd ~/
 mv .cargo/bin/* /usr/local/bin/
 
 # some useful variables
+# replace <alias> with your value. ACCOUNT=Validatrium as a name for your node
+# do the same for chain id
 echo "export ACCOUNT=<alias>" >> $HOME/.bashrc
 # set chain. Testnet id: anoma-testnet-0.0.a1d4bbfafa49
 echo "export CHAIN=<chain-id>" >> $HOME/.bashrc
